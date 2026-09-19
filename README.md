@@ -192,8 +192,9 @@ All errors return a consistent JSON body:
 - `404` - item/warehouse/movement not found
 - `422` - well-formed request that breaks a business rule (insufficient stock,
   already-cancelled movement, disabled item, duplicate code)
-
+  
 Author
+
 Dubbala Purnesh Reddy
 
 Java Backend Developer | Spring Boot | Hibernate | MySQL | Spring MVC | Maven
