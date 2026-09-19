@@ -193,7 +193,11 @@ All errors return a consistent JSON body:
 - `422` - well-formed request that breaks a business rule (insufficient stock,
   already-cancelled movement, disabled item, duplicate code)
 
-## Things not finished / what I'd change
+Author
+Dubbala Purnesh Reddy
 
-See the last section of `DESIGN.md` - it covers what's still rough and what
-I'd change before real warehouses used this.
+Java Backend Developer | Spring Boot | Hibernate | MySQL | Spring MVC | Maven
+
+📱 LinkedIn: https://www.linkedin.com/in/purnesh-reddy-d-642578312
+
+🐙 GitHub: https://github.com/PurneshReddy-D 📧 Email: dubbalapurnesh878681@gmail.com
